@@ -2,6 +2,8 @@
 - 👀 I’m interested in service developing, programming competition + deep learning
 - 🌱 I’m currently learning Electrical Computer Engineering in Seoul National Universety
 <!-- - 💞️ I’m looking to collaborate on ... -->
+- I'm currently making a service related to image and maps.
+- Current interest is in React, Coding Competition.
 - 📫 How to reach me : 2002nare@snu.ac.kr
 
 <!---
